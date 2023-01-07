@@ -8,3 +8,4 @@ def my_1D_Median(data,k):
     if k % 2 != 0:
         print('Windowsize를 홀수로 만들어주세요')
      np.median()
+    print(np.median())
